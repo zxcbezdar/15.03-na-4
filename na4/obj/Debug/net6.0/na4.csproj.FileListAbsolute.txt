@@ -1,0 +1,15 @@
+C:\Users\Макс\source\repos\na4\na4\bin\Debug\net6.0\na4.exe
+C:\Users\Макс\source\repos\na4\na4\bin\Debug\net6.0\na4.deps.json
+C:\Users\Макс\source\repos\na4\na4\bin\Debug\net6.0\na4.runtimeconfig.json
+C:\Users\Макс\source\repos\na4\na4\bin\Debug\net6.0\na4.dll
+C:\Users\Макс\source\repos\na4\na4\bin\Debug\net6.0\na4.pdb
+C:\Users\Макс\source\repos\na4\na4\obj\Debug\net6.0\na4.csproj.AssemblyReference.cache
+C:\Users\Макс\source\repos\na4\na4\obj\Debug\net6.0\na4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\source\repos\na4\na4\obj\Debug\net6.0\na4.AssemblyInfoInputs.cache
+C:\Users\Макс\source\repos\na4\na4\obj\Debug\net6.0\na4.AssemblyInfo.cs
+C:\Users\Макс\source\repos\na4\na4\obj\Debug\net6.0\na4.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\na4\na4\obj\Debug\net6.0\na4.dll
+C:\Users\Макс\source\repos\na4\na4\obj\Debug\net6.0\refint\na4.dll
+C:\Users\Макс\source\repos\na4\na4\obj\Debug\net6.0\na4.pdb
+C:\Users\Макс\source\repos\na4\na4\obj\Debug\net6.0\na4.genruntimeconfig.cache
+C:\Users\Макс\source\repos\na4\na4\obj\Debug\net6.0\ref\na4.dll
